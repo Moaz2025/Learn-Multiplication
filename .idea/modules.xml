@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Learn-Multiply.iml" filepath="$PROJECT_DIR$/Learn-Multiply.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learn-Multiplication.iml" filepath="$PROJECT_DIR$/Learn-Multiplication.iml" />
     </modules>
   </component>
 </project>

@@ -84,7 +84,6 @@ public class Game {
             randomNumber1 = random.nextInt(max - min + 1) + min;
             randomNumber2 = random.nextInt(max - min + 1) + min;
         }
-
         else if (level == 2) {
             int min = 10;
             int max = 99;
